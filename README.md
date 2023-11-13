@@ -15,6 +15,7 @@ it all together following the object-oriented programming paradigm.
 ### Installation
 You need to have a version of python installed e.g. python 3 
 Git clone : <git@github.com:Momo123-starmax/hangman982.git>  
+Project directory: cd hangman982
 
 
 
