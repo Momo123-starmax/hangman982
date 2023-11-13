@@ -1,7 +1,6 @@
 # Hangman Game (Project)
 ## Table of contents
-- <Description>
-- Key code snippets
+- Description
 - Installation
 - Usage
 - File structure
