@@ -14,8 +14,27 @@ it all together following the object-oriented programming paradigm.
 
 ### Installation
 You need to have a version of python installed e.g. python 3 
-Git clone : <git@github.com:Momo123-starmax/hangman982.git>  
+Git clone : git@github.com:Momo123-starmax/hangman982.git  
 Project directory: cd hangman982
+
+### Usage
+Using an editor like vscode run the hangman game in the terminal.
+follow the input prompts and instructions to play the game.
+
+### File structure 
+Hangman Folder
+milestone_2
+milestone_3
+milestone_4
+milestone_5 
+
+### License
+MIT license
+
+Copyright(c) 2023 Mohamed Rooble
+
+### Contact details
+<mo.rooble@gmail.com>
 
 
 
